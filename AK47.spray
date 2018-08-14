@@ -1,0 +1,22 @@
+<spraypattern>
+	<shot>
+		<x='0'/>
+		<y='0'/>
+		<dmg='30'/>
+	</shot>
+	<shot>
+		<x='1'/>
+		<y='0.5'/>
+		<dmg='30'/>
+	</shot>
+	<shot>
+		<x='1'/>
+		<y='0.5'/>
+		<dmg='30'/>
+	</shot>
+	<shot>
+		<x='1'/>
+		<y='0.5'/>
+		<dmg='30'/>
+	</shot>
+</spraypattern>
